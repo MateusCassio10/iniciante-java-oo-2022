@@ -4,7 +4,7 @@ import model.Aprendiz;
 import model.Mentor;
 import model.Organizador;
 
-public class Teste {
+public class Testes {
 
     public static void main(String[] args) {
 
